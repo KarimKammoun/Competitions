@@ -1,20 +1,20 @@
-# Code Break Competition - Faculté de Science en Sfax (FSS)
+# Hello_World Competition - ENIS Sfax
 
 ## Overview
 
-This repository contains the solutions submitted during our participation in the "Code Break" problem-solving competition, held at the **Faculté de Science en Sfax (FSS)**.
+This repository contains the solutions submitted during our participation in the **Hello_World** problem-solving competition, organized by **ENIS Sfax**.
+
+- 🔗 [Link to the problems on HackerRank](https://codeforces.com/group/6PwyLtjRB5/contest/606605)
 
 ## Results
 
-- **Ranking:** 8th place out of 23 teams
-- **Problems Solved:** 5 out of 12
+- **Ranking:** 10th place out of 43 teams
+- **Problems Solved:** 5 out of 13
 
 ## Team
 
 - **Participants:**
-  - Khaled Kammoun
   - Karim Kammoun
+  - Majed Elleuch
+  - Mahdi Mezghani
 
-## Acknowledgments
-
-We are proud of our achievement and look forward to participating in more competitions to further refine our skills and collaboration.
