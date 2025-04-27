@@ -1,20 +1,20 @@
-# Code Break Competition - Faculté de Science en Sfax (FSS)
+# Solve_it Competition - ISIMS Sfax
 
 ## Overview
 
-This repository contains the solutions submitted during our participation in the "Code Break" problem-solving competition, held at the **Faculté de Science en Sfax (FSS)**.
+This repository contains the solutions submitted during our participation in the "Solve_it" problem-solving competition, held at the **ISIMS** (Higher Institute of Computer Science and Multimedia of Sfax).
 
 ## Results
 
-- **Ranking:** 8th place out of 23 teams
-- **Problems Solved:** 5 out of 12
+- **Ranking:** 15th place out of 24 teams
+- **Problems Solved:** 4 out of 11
 
 ## Team
 
 - **Participants:**
-  - Khaled Kammoun
   - Karim Kammoun
+  - Adam Abida
+  - Majed Elleuch
 
-## Acknowledgments
 
-We are proud of our achievement and look forward to participating in more competitions to further refine our skills and collaboration.
+
