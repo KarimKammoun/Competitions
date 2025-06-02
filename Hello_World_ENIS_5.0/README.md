@@ -4,7 +4,7 @@
 
 This repository contains the solutions submitted during our participation in the **Hello_World** problem-solving competition, organized by **ENIS Sfax**.
 
-- 🔗 [Link to the problems on HackerRank](https://codeforces.com/group/6PwyLtjRB5/contest/606605)
+- 🔗 [Link to the problems on CodeForces](https://codeforces.com/group/6PwyLtjRB5/contest/606605)
 
 ## Results
 
