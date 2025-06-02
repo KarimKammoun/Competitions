@@ -15,6 +15,4 @@ This repository contains the solutions submitted during our participation in the
   - Khaled Kammoun
   - Karim Kammoun
 
-## Acknowledgments
-
-We are proud of our achievement and look forward to participating in more competitions to further refine our skills and collaboration.
+ 
